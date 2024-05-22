@@ -1,0 +1,13 @@
+django==4.0.6 
+django-storages[boto3]==1.13.2  
+django-celery-beat==2.4.0
+flower==1.2.0 
+celery==5.2.7
+dj-database-url==1.2.0
+djangorestframework==3.14.0  
+django-cors-headers==3.13.0 
+django-filter==23.2
+drf-spectacular==0.25.1  
+python-decouple==3.6
+psycopg2-binary==2.9.3
+watchfiles
