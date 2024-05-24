@@ -1,6 +1,8 @@
 # Video & Audio Compressor App
 This system compresses video & audio files submitted by a user
 
+Check here: [FULL COURSE](https://youtu.be/siqDdrZI4x4?si=LA6zA9Yj4pn2EJJg) 
+
 # Tools & Services:
 - Django & DRF : for building the APIs
 - Docker & Docker compose: Containerization
